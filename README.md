@@ -9,3 +9,5 @@ Invitación digital para la celebración conjunta de grado de Mariana & José.
 - **RSVP:** WhatsApp
 
 Sitio estático publicado con GitHub Pages.
+
+Deployment: GitHub Pages via Actions.
